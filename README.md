@@ -1,5 +1,7 @@
 # Containerized JIRA Deployment with Ansible and Docker
 
+![architecture](/images/arch.png)
+
 This project automates the deployment of **JIRA Software** using **Ansible** and **Docker**, ensuring efficiency, scalability, and consistent deployments. Follow this step-by-step guide to set up a fully containerized JIRA environment with centralized management and orchestration.
 
 ---
